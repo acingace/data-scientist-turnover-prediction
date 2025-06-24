@@ -10,6 +10,7 @@ https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scienti
 
 ## Project Structure:
 job-change-prediction.ipynb — Jupyter Notebook containing the full analysis, preprocessing, modeling, and evaluation.
+
 README.md — Project overview and documentation.
 
 ## Model Performance Summary
